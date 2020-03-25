@@ -1,1 +1,20 @@
-.DS_Store
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+
+2. Name two big differences between display: block; and display: inline;.
+
+The difference between the two is that display: block starts on a new line where inline does not. 
+Block also takes up the full width available where inline only takes up as much width as necessary.
+
+3. What are the 4 areas of the box model?
+
+content, margin, padding, border
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+
+cross axis
+
+5. Explain why git is valuable to a team of developers.
+
+it helps improve cross colaboration between developers
